@@ -2,7 +2,7 @@
 
 Here we have the challenge about the two exercise of manual testing and automation. for more detail about the requirements of this excercise you can see [here](https://github.com/PriamoRodriguez/QAChallenge/blob/main/qa-challenge-reviewed_5e6f90ff6a001%20(1).pdf)
 
-## Exercise (Manual QA) 1
+## Exercise (Manual QA) #1
 This exercise is based on manual testing verifying the main navigaton looking for bugs, doing the test cases and executing in a manual way.
 
 It has the next delivers:
